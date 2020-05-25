@@ -56,6 +56,11 @@ code {
   margin: 0px;
 }
 
+.a-text {
+  font-size: larger;
+  color: whitesmoke;
+}
+
 footer{
   background-color: darkgrey;
   position: absolute;

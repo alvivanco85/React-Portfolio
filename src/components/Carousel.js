@@ -3,6 +3,7 @@ import Card from './Card';
 
 import aboutme from '../assets/images/thebiopic.jpg';
 import resume from '../assets/images/resume.jpg';
+import reusmepdf from '../assets/images/AldoResume2020.pdf'
 import github from '../assets/images/github.png';
 import linkedin from '../assets/images/linkedin.png';
 import Container from 'react-bootstrap/Container';
@@ -17,9 +18,9 @@ class Carousel extends React.Component {
                 {
                     id: 0,
                     title: 'About Me',
-                    subTitle: 'Work and Stuff!',
+                    subTitle: 'My Story',
                     imgSrc: aboutme,
-                    link: '',
+                    link: 'http://localhost:3000/aboutme',
                     selected: false
                 },
                 {
@@ -27,7 +28,7 @@ class Carousel extends React.Component {
                     title: 'Resume',
                     subTitle: 'Work and Stuff!',
                     imgSrc: resume,
-                    link: '',
+                    link: reusmepdf,
                     selected: false
                 },
                 {
