@@ -30,4 +30,4 @@ Open up the root directory in your terminal. "Npm i" to install packages, then n
 * Github Repo - https://github.com/alvivanco85/React-Portfolio
 
 ## Images
-* 
+![Portfolio Demo GIF](https://github.com/alvivanco85/React-Portfolio/blob/master/React-Portfolio.gif)
