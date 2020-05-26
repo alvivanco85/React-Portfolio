@@ -24,15 +24,15 @@ class App extends React.Component {
         {title: "Contact", path: "/contact"},
       ],
       home: {
-        title: "Web Development",
-        subTitle: "Your Ideas brought to life!",
+        title: "Web Developer",
+        subTitle: "I can bring your web ideas to life!",
         text: "Find out more about me below."
       },
       aboutme: {
         title: "About Me"
       },
       portfolio: {
-        title: "Prject Demos"
+        title: "Project Demos"
       },
       contact: {
         title: "Contact Me"
